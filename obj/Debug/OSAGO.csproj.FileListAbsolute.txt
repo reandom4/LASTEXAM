@@ -1,0 +1,194 @@
+E:\pr 2022\OSAGO\bin\Debug\OSAGO.exe.config
+E:\pr 2022\OSAGO\bin\Debug\OSAGO.exe
+E:\pr 2022\OSAGO\bin\Debug\OSAGO.pdb
+E:\pr 2022\OSAGO\obj\Debug\OSAGO.csproj.AssemblyReference.cache
+E:\pr 2022\OSAGO\obj\Debug\OSAGO.csproj.SuggestedBindingRedirects.cache
+E:\pr 2022\OSAGO\obj\Debug\OSAGO.authorization.resources
+E:\pr 2022\OSAGO\obj\Debug\OSAGO.Properties.Resources.resources
+E:\pr 2022\OSAGO\obj\Debug\OSAGO.csproj.GenerateResource.cache
+E:\pr 2022\OSAGO\obj\Debug\OSAGO.csproj.CoreCompileInputs.cache
+E:\pr 2022\OSAGO\obj\Debug\OSAGO.exe
+E:\pr 2022\OSAGO\obj\Debug\OSAGO.pdb
+E:\pr 2022\OSAGO\obj\Debug\OSAGO.mainform.resources
+E:\pr 2022\OSAGO\obj\Debug\OSAGO.cars.resources
+E:\pr 2022\OSAGO\obj\Debug\OSAGO.clients.resources
+E:\pr 2022\OSAGO\obj\Debug\OSAGO.ShowOSAGO.resources
+E:\pr 2022\OSAGO\obj\Debug\OSAGO.users.resources
+E:\pr 2022\OSAGO\obj\Debug\OSAGO.Osagocost.resources
+E:\pr 2022\OSAGO\bin\Debug\MySql.Data.dll
+E:\pr 2022\OSAGO\bin\Debug\Google.Protobuf.dll
+E:\pr 2022\OSAGO\bin\Debug\ZstdNet.dll
+E:\pr 2022\OSAGO\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\pr 2022\OSAGO\bin\Debug\BouncyCastle.Crypto.dll
+E:\pr 2022\OSAGO\bin\Debug\System.Memory.dll
+E:\pr 2022\OSAGO\bin\Debug\System.Buffers.dll
+E:\pr 2022\OSAGO\bin\Debug\K4os.Compression.LZ4.dll
+E:\pr 2022\OSAGO\bin\Debug\K4os.Hash.xxHash.dll
+E:\pr 2022\OSAGO\bin\Debug\MySql.Data.xml
+E:\pr 2022\OSAGO\obj\Debug\OSAGO.exe.config
+E:\pr 2022\OSAGO\obj\Debug\OSAGO.csproj.CopyComplete
+E:\pr 2022\OSAGO6\bin\Debug\OSAGO.exe.config
+E:\pr 2022\OSAGO6\bin\Debug\OSAGO.exe
+E:\pr 2022\OSAGO6\bin\Debug\OSAGO.pdb
+E:\pr 2022\OSAGO6\bin\Debug\MySql.Data.dll
+E:\pr 2022\OSAGO6\bin\Debug\Google.Protobuf.dll
+E:\pr 2022\OSAGO6\bin\Debug\ZstdNet.dll
+E:\pr 2022\OSAGO6\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\pr 2022\OSAGO6\bin\Debug\BouncyCastle.Crypto.dll
+E:\pr 2022\OSAGO6\bin\Debug\System.Memory.dll
+E:\pr 2022\OSAGO6\bin\Debug\System.Buffers.dll
+E:\pr 2022\OSAGO6\bin\Debug\K4os.Compression.LZ4.dll
+E:\pr 2022\OSAGO6\bin\Debug\K4os.Hash.xxHash.dll
+E:\pr 2022\OSAGO6\bin\Debug\MySql.Data.xml
+E:\pr 2022\OSAGO6\obj\Debug\OSAGO.csproj.AssemblyReference.cache
+E:\pr 2022\OSAGO6\obj\Debug\OSAGO.csproj.SuggestedBindingRedirects.cache
+E:\pr 2022\OSAGO6\obj\Debug\OSAGO.exe.config
+E:\pr 2022\OSAGO6\obj\Debug\OSAGO.authorization.resources
+E:\pr 2022\OSAGO6\obj\Debug\OSAGO.cars.resources
+E:\pr 2022\OSAGO6\obj\Debug\OSAGO.clients.resources
+E:\pr 2022\OSAGO6\obj\Debug\OSAGO.mainform.resources
+E:\pr 2022\OSAGO6\obj\Debug\OSAGO.Osagocost.resources
+E:\pr 2022\OSAGO6\obj\Debug\OSAGO.Properties.Resources.resources
+E:\pr 2022\OSAGO6\obj\Debug\OSAGO.ShowOSAGO.resources
+E:\pr 2022\OSAGO6\obj\Debug\OSAGO.users.resources
+E:\pr 2022\OSAGO6\obj\Debug\OSAGO.csproj.GenerateResource.cache
+E:\pr 2022\OSAGO6\obj\Debug\OSAGO.csproj.CoreCompileInputs.cache
+E:\pr 2022\OSAGO6\obj\Debug\OSAGO.csproj.CopyComplete
+E:\pr 2022\OSAGO6\obj\Debug\OSAGO.exe
+E:\pr 2022\OSAGO6\obj\Debug\OSAGO.pdb
+E:\pr 2022\OSAGO7\obj\Debug\OSAGO.csproj.AssemblyReference.cache
+E:\pr 2022\OSAGO7\obj\Debug\OSAGO.csproj.SuggestedBindingRedirects.cache
+E:\pr 2022\OSAGO7\obj\Debug\OSAGO.exe.config
+E:\pr 2022\OSAGO7\obj\Debug\OSAGO.authorization.resources
+E:\pr 2022\OSAGO7\obj\Debug\OSAGO.cars.resources
+E:\pr 2022\OSAGO7\obj\Debug\OSAGO.clients.resources
+E:\pr 2022\OSAGO7\obj\Debug\OSAGO.mainform.resources
+E:\pr 2022\OSAGO7\obj\Debug\OSAGO.Osagocost.resources
+E:\pr 2022\OSAGO7\obj\Debug\OSAGO.Properties.Resources.resources
+E:\pr 2022\OSAGO7\obj\Debug\OSAGO.ShowOSAGO.resources
+E:\pr 2022\OSAGO7\obj\Debug\OSAGO.users.resources
+E:\pr 2022\OSAGO7\obj\Debug\OSAGO.csproj.GenerateResource.cache
+E:\pr 2022\OSAGO7\obj\Debug\OSAGO.csproj.CoreCompileInputs.cache
+E:\pr 2022\OSAGO7\obj\Debug\OSAGO.exe
+E:\pr 2022\OSAGO7\obj\Debug\OSAGO.pdb
+E:\pr 2022\OSAGO7\bin\Debug\OSAGO.exe.config
+E:\pr 2022\OSAGO7\bin\Debug\OSAGO.exe
+E:\pr 2022\OSAGO7\bin\Debug\OSAGO.pdb
+E:\pr 2022\OSAGO7\bin\Debug\MySql.Data.dll
+E:\pr 2022\OSAGO7\bin\Debug\Google.Protobuf.dll
+E:\pr 2022\OSAGO7\bin\Debug\ZstdNet.dll
+E:\pr 2022\OSAGO7\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\pr 2022\OSAGO7\bin\Debug\BouncyCastle.Crypto.dll
+E:\pr 2022\OSAGO7\bin\Debug\System.Memory.dll
+E:\pr 2022\OSAGO7\bin\Debug\System.Buffers.dll
+E:\pr 2022\OSAGO7\bin\Debug\K4os.Compression.LZ4.dll
+E:\pr 2022\OSAGO7\bin\Debug\K4os.Hash.xxHash.dll
+E:\pr 2022\OSAGO7\bin\Debug\MySql.Data.xml
+E:\pr 2022\OSAGO7\obj\Debug\OSAGO.csproj.CopyComplete
+E:\pr 2022\OSAGO8\bin\Debug\OSAGO.exe.config
+E:\pr 2022\OSAGO8\bin\Debug\OSAGO.exe
+E:\pr 2022\OSAGO8\bin\Debug\OSAGO.pdb
+E:\pr 2022\OSAGO8\bin\Debug\MySql.Data.dll
+E:\pr 2022\OSAGO8\bin\Debug\Google.Protobuf.dll
+E:\pr 2022\OSAGO8\bin\Debug\ZstdNet.dll
+E:\pr 2022\OSAGO8\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\pr 2022\OSAGO8\bin\Debug\BouncyCastle.Crypto.dll
+E:\pr 2022\OSAGO8\bin\Debug\System.Memory.dll
+E:\pr 2022\OSAGO8\bin\Debug\System.Buffers.dll
+E:\pr 2022\OSAGO8\bin\Debug\K4os.Compression.LZ4.dll
+E:\pr 2022\OSAGO8\bin\Debug\K4os.Hash.xxHash.dll
+E:\pr 2022\OSAGO8\bin\Debug\MySql.Data.xml
+E:\pr 2022\OSAGO8\obj\Debug\OSAGO.csproj.AssemblyReference.cache
+E:\pr 2022\OSAGO8\obj\Debug\OSAGO.csproj.SuggestedBindingRedirects.cache
+E:\pr 2022\OSAGO8\obj\Debug\OSAGO.exe.config
+E:\pr 2022\OSAGO8\obj\Debug\OSAGO.authorization.resources
+E:\pr 2022\OSAGO8\obj\Debug\OSAGO.cars.resources
+E:\pr 2022\OSAGO8\obj\Debug\OSAGO.clients.resources
+E:\pr 2022\OSAGO8\obj\Debug\OSAGO.mainform.resources
+E:\pr 2022\OSAGO8\obj\Debug\OSAGO.Osagocost.resources
+E:\pr 2022\OSAGO8\obj\Debug\OSAGO.Properties.Resources.resources
+E:\pr 2022\OSAGO8\obj\Debug\OSAGO.ShowOSAGO.resources
+E:\pr 2022\OSAGO8\obj\Debug\OSAGO.users.resources
+E:\pr 2022\OSAGO8\obj\Debug\OSAGO.csproj.GenerateResource.cache
+E:\pr 2022\OSAGO8\obj\Debug\OSAGO.csproj.CoreCompileInputs.cache
+E:\pr 2022\OSAGO8\obj\Debug\OSAGO.csproj.CopyComplete
+E:\pr 2022\OSAGO8\obj\Debug\OSAGO.exe
+E:\pr 2022\OSAGO8\obj\Debug\OSAGO.pdb
+E:\pr 2022\OSAGO9\bin\Debug\OSAGO.exe.config
+E:\pr 2022\OSAGO9\bin\Debug\OSAGO.exe
+E:\pr 2022\OSAGO9\bin\Debug\OSAGO.pdb
+E:\pr 2022\OSAGO9\bin\Debug\MySql.Data.dll
+E:\pr 2022\OSAGO9\bin\Debug\Google.Protobuf.dll
+E:\pr 2022\OSAGO9\bin\Debug\ZstdNet.dll
+E:\pr 2022\OSAGO9\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\pr 2022\OSAGO9\bin\Debug\BouncyCastle.Crypto.dll
+E:\pr 2022\OSAGO9\bin\Debug\System.Memory.dll
+E:\pr 2022\OSAGO9\bin\Debug\System.Buffers.dll
+E:\pr 2022\OSAGO9\bin\Debug\K4os.Compression.LZ4.dll
+E:\pr 2022\OSAGO9\bin\Debug\K4os.Hash.xxHash.dll
+E:\pr 2022\OSAGO9\bin\Debug\MySql.Data.xml
+E:\pr 2022\OSAGO9\obj\Debug\OSAGO.csproj.AssemblyReference.cache
+E:\pr 2022\OSAGO9\obj\Debug\OSAGO.csproj.SuggestedBindingRedirects.cache
+E:\pr 2022\OSAGO9\obj\Debug\OSAGO.exe.config
+E:\pr 2022\OSAGO9\obj\Debug\OSAGO.authorization.resources
+E:\pr 2022\OSAGO9\obj\Debug\OSAGO.cars.resources
+E:\pr 2022\OSAGO9\obj\Debug\OSAGO.clients.resources
+E:\pr 2022\OSAGO9\obj\Debug\OSAGO.mainform.resources
+E:\pr 2022\OSAGO9\obj\Debug\OSAGO.Osagocost.resources
+E:\pr 2022\OSAGO9\obj\Debug\OSAGO.Properties.Resources.resources
+E:\pr 2022\OSAGO9\obj\Debug\OSAGO.ShowOSAGO.resources
+E:\pr 2022\OSAGO9\obj\Debug\OSAGO.users.resources
+E:\pr 2022\OSAGO9\obj\Debug\OSAGO.csproj.GenerateResource.cache
+E:\pr 2022\OSAGO9\obj\Debug\OSAGO.csproj.CoreCompileInputs.cache
+E:\pr 2022\OSAGO9\obj\Debug\OSAGO.csproj.CopyComplete
+E:\pr 2022\OSAGO9\obj\Debug\OSAGO.exe
+E:\pr 2022\OSAGO9\obj\Debug\OSAGO.pdb
+E:\pr 2022\OSAGO9\obj\Debug\OSAGO.csproj.ResolveComReference.cache
+E:\pr 2022\OSAGO9\obj\Debug\OSAGO.OSAGO_registration.resources
+E:\pr 2022\OSAGO9\obj\Debug\OSAGO.OSAGO_registration2.resources
+E:\pr 2022\OSAGO9\obj\Debug\OSAGO.OSAGO_registration3.resources
+E:\pr 2022\OSAGO9\obj\Debug\OSAGO.OSAGO_registration4.resources
+E:\pr 2022\OSAGO9\obj\Debug\OSAGO.aboutOSAGO.resources
+D:\yurik\OSAGO9\obj\Debug\OSAGO.csproj.AssemblyReference.cache
+D:\yurik\OSAGO9\obj\Debug\OSAGO.exe.config
+D:\yurik\OSAGO9\obj\Debug\OSAGO.exe
+D:\yurik\OSAGO9\obj\Debug\OSAGO.pdb
+D:\yurik\OSAGO9\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\yurik\OSAGO9\obj\Debug\Interop.Microsoft.Office.Interop.Word.dll
+D:\yurik\OSAGO9\obj\Debug\Interop.VBIDE.dll
+D:\yurik\OSAGO9\obj\Debug\OSAGO.csproj.ResolveComReference.cache
+D:\yurik\OSAGO9\obj\Debug\OSAGO.aboutOSAGO.resources
+D:\yurik\OSAGO9\obj\Debug\OSAGO.authorization.resources
+D:\yurik\OSAGO9\obj\Debug\OSAGO.cars.resources
+D:\yurik\OSAGO9\obj\Debug\OSAGO.clients.resources
+D:\yurik\OSAGO9\obj\Debug\OSAGO.mainform.resources
+D:\yurik\OSAGO9\obj\Debug\OSAGO.OSAGO_registration.resources
+D:\yurik\OSAGO9\obj\Debug\OSAGO.OSAGO_registration2.resources
+D:\yurik\OSAGO9\obj\Debug\OSAGO.OSAGO_registration3.resources
+D:\yurik\OSAGO9\obj\Debug\OSAGO.OSAGO_registration4.resources
+D:\yurik\OSAGO9\obj\Debug\OSAGO.Osagocost.resources
+D:\yurik\OSAGO9\obj\Debug\OSAGO.Properties.Resources.resources
+D:\yurik\OSAGO9\obj\Debug\OSAGO.ShowOSAGO.resources
+D:\yurik\OSAGO9\obj\Debug\OSAGO.users.resources
+D:\yurik\OSAGO9\obj\Debug\OSAGO.csproj.GenerateResource.cache
+D:\yurik\OSAGO9\obj\Debug\OSAGO.csproj.CoreCompileInputs.cache
+D:\yurik\OSAGO9\bin\Debug\OSAGO.exe.config
+D:\yurik\OSAGO9\bin\Debug\OSAGO.exe
+D:\yurik\OSAGO9\bin\Debug\OSAGO.pdb
+D:\yurik\OSAGO9\bin\Debug\Google.Protobuf.dll
+D:\yurik\OSAGO9\bin\Debug\ZstdNet.dll
+D:\yurik\OSAGO9\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\yurik\OSAGO9\bin\Debug\BouncyCastle.Crypto.dll
+D:\yurik\OSAGO9\bin\Debug\System.Memory.dll
+D:\yurik\OSAGO9\bin\Debug\System.Buffers.dll
+D:\yurik\OSAGO9\bin\Debug\K4os.Compression.LZ4.dll
+D:\yurik\OSAGO9\bin\Debug\K4os.Hash.xxHash.dll
+D:\yurik\OSAGO9\bin\Debug\MySql.Data.xml
+D:\yurik\OSAGO9\obj\Debug\OSAGO.csproj.CopyComplete
+\\246-prep\Пс-14\ПС-20Б\Юрик\курсач\OSAGO9\bin\Debug\OSAGO.exe.config
+\\246-prep\Пс-14\ПС-20Б\Юрик\курсач\OSAGO9\obj\Debug\Interop.Microsoft.Office.Core.dll
+\\246-prep\Пс-14\ПС-20Б\Юрик\курсач\OSAGO9\obj\Debug\Interop.Microsoft.Office.Interop.Word.dll
+\\246-prep\Пс-14\ПС-20Б\Юрик\курсач\OSAGO9\obj\Debug\Interop.VBIDE.dll
+\\246-prep\Пс-14\ПС-20Б\Юрик\курсач\OSAGO9\obj\Debug\OSAGO.csproj.ResolveComReference.cache
+\\246-prep\Пс-14\ПС-20Б\Юрик\курсач\OSAGO9\obj\Debug\OSAGO.exe
+\\246-prep\Пс-14\ПС-20Б\Юрик\курсач\OSAGO9\obj\Debug\OSAGO.pdb
